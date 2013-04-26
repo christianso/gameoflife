@@ -33,6 +33,13 @@
             <artifactId>guava</artifactId>
             <version>14.0.1</version>
         </dependency>
+
+        <dependency>
+            <groupId>no.finntech.kata.gameoflife</groupId>
+            <artifactId>gui</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
 </project>
 
